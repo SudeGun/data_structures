@@ -1,6 +1,6 @@
-# Data Structures & Algorithms Lab Projects (BBM 203)
+# Data Structures & Algorithms Lab Projects
 
-Bu depo, Hacettepe Üniversitesi Bilgisayar / Yapay Zeka Mühendisliği Bölümü **BBM 203: Software Laboratory I (Data Structures)** dersi kapsamında C++11 standardında geliştirilmiş veri yapıları ve simülasyon projelerini içermektedir.
+Bu repo, **BBM 203: Software Laboratory I (Data Structures)** dersi kapsamında C++11 standardında geliştirilmiş veri yapıları ve simülasyon projelerini içermektedir.
 
 Tüm veri yapıları (Bağlı Listeler, Döngüsel Kuyruklar, Yığınlar, AVL ve Kırmızı-Siyah Ağaçlar), STL konteynerleri (`std::vector`, `std::list`, `std::queue`, `std::stack`, `std::map`) kullanılmadan, **sıfırdan dinamik bellek yönetimi (`new` / `delete`) ve gösterici (pointer) manipülasyonlarıyla** manuel olarak uygulanmıştır.
 
